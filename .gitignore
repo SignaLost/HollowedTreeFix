@@ -1,0 +1,17 @@
+bin/
+obj/
+
+# Local machine paths — yours, not the project's
+Directory.Build.props
+Structure/build.local
+
+# Valheim Cuisine decompiled and its bundle extracted, to read; never committed
+reference/
+
+*.user
+*.suo
+.vs/
+.idea/
+
+# Local push script
+push.nu
